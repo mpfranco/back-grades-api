@@ -31,7 +31,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(
   cors({
     //origin: 'http://localhost:3000',
-    origin: 'https://fathomless-chamber-80317.herokuapp.com/',
+    origin: 'https://thawing-beyond-44412.herokuapp.com',
   })
 );
 
