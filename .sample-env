@@ -1,2 +1,2 @@
-MONGODB=
-PORT=
+MONGODB=mongodb+srv://michel_franco:shel3591@cluster0.nhqmz.mongodb.net/dbGrades;
+PORT=8080;
